@@ -1,0 +1,1 @@
+if you add /static/filename to your base address of the website it will take render that specific file. IF you just do /static tho nothing will show.
